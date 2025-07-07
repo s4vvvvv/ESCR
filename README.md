@@ -1,2 +1,3 @@
-# ESCR
-My projects and activities I did on East Systems Colleges of Rizal
+# East Systems Colleges of Rizal
+
+This repository contains of the projects and activities I did on [School](https://web.facebook.com/escrmorong).
