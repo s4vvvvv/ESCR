@@ -55,6 +55,7 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Management" />
     <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -257,6 +258,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\65f44cd149e66e386d8d3da7_Crest-on-lightinverted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log-out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard-monitor238.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trophy238.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\introduction-handshake238.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\console-controller238.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallet238.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee-man238.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boss238.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
